@@ -1,7 +1,7 @@
 import { RouterProvider, createBrowserRouter } from 'react-router-dom';
 import './App.css';
 import 'react-toastify/dist/ReactToastify.css';
-import LandingPage from './pages/landing-page';
+// import LandingPage from './pages/landing-page';
 import RootLayout from './layouts/rootLayout';
 import About from './landing-page/about';
 import { ToastContainer } from "react-toastify";
